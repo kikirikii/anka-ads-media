@@ -1,0 +1,33 @@
+{
+  "_como_usar": "Cada ítem: id, video (ruta en este repo), caption, fecha (AAAA-MM-DD, Tucumán), franja (8, 12 o 21), aprobado (true solo con OK de Kiki). La rutina completa 'publicado'. Máximo 2 por franja. Nunca repetir un caption.",
+  "items": [
+    {
+      "id": "trial-A-empresas",
+      "video": "trials/trial-A-empresas.mp4",
+      "caption": "Limpieza de fachadas con drone en Tucumán: esto es lo que hacemos.\n\nAG NAUM, sobre avenida Perón: frentes, carteles y tótems de Ford y Nissan, con el drone y la manguera desde el piso. La concesionaria siguió abierta todo el tiempo.\n\n¿Qué frente de tu empresa está así? Mandanos una foto por WhatsApp y te decimos cómo lo limpiaríamos.\n\n#limpiezadefachadas #tucuman #drone #carteleria",
+      "fecha": "2026-11-18",
+      "franja": 8,
+      "aprobado": true,
+      "publicado": {
+        "id": "17925715809225710",
+        "link": "https://www.instagram.com/reel/Df4dsOAEmbH/",
+        "cuando": "2026-11-18T09:05-03:00",
+        "nota": "a mano por API"
+      }
+    },
+    {
+      "id": "trial-B-cartel",
+      "video": "trials/trial-B-cartel.mp4",
+      "caption": "¿Cuándo fue la última vez que alguien limpió ese cartel?\n\nLimpieza de carteles con drone en Tucumán: así lavamos el frente de AG NAUM, sobre avenida Perón, sin andamios y sin cortar nada. De cerca se nota más: antes opaco, después se lee la marca otra vez.\n\nMandanos una foto de tu cartel por WhatsApp y te decimos qué necesita.\n\n#limpiezadecarteles #tucuman #drone #fachadas",
+      "fecha": "2026-11-18",
+      "franja": 8,
+      "aprobado": true,
+      "publicado": {
+        "id": "18108209699199739",
+        "link": "https://www.instagram.com/reel/Df4d6McgNu6/",
+        "cuando": "2026-11-18T09:07-03:00",
+        "nota": "a mano por API"
+      }
+    }
+  ]
+}
